@@ -1,0 +1,14 @@
+import the nessecary libraries required for manipulation and organization of folders
+
+detect which os is being ran, and adjust the paths from here on out as nessecary
+
+ask which path to organize
+
+ask how they would like to organize it
+
+organization part:
+    organize the folder according to the way they would like to
+    remove duplicate files
+    while this is happening, display a little ascii spinner using braille symbols
+
+say Well done and exit the program

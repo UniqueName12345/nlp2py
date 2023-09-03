@@ -1,0 +1,15 @@
+import the turtle library
+
+create a turtle object named "turtle"
+
+draw a square
+
+move 30 steps
+
+turn 90 degrees
+
+draw a hexagon
+
+say "Done!" in the terminal
+
+exit the program
