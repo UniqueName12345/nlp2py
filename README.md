@@ -25,3 +25,4 @@ pip install -r requirements.txt
 ```
 python app.py
 ```
+Note: It may take a long time to download the model. This is normal, as it's a large model.
